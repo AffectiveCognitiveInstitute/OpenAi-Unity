@@ -1,0 +1,23 @@
+{
+  "name": "de.hso.openai",
+  "version": "0.0.1",
+  "displayName": "OpenAI for Unity",
+  "description": "A Unity package including OpenAI.",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "documentationUrl": "https://github.com/AffectiveCognitiveInstitute/OpenAi-Unity",
+  "changelogUrl": "https://github.com/AffectiveCognitiveInstitute/OpenAi-Unity/commits/main/",
+  "licensesUrl": "https://example.com/licensing.html",
+  "dependencies": {
+
+ },
+ "keywords": [
+    "openai",
+    "unity"
+  ],
+  "author": {
+    "name": "Arndt Bieberstein, Stefano Gampe, Benjamin Schnitzer",
+    "email": "unity@example.com",
+    "url": "https://aci.hs-offenburg.de/"
+  }
+}
