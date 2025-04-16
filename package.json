@@ -1,6 +1,6 @@
 {
   "name": "de.hso.openai",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "displayName": "OpenAI for Unity",
   "description": "A Unity package including OpenAI.",
   "unity": "2019.1",
@@ -17,7 +17,7 @@
   ],
   "author": {
     "name": "Arndt Bieberstein, Stefano Gampe, Benjamin Schnitzer",
-    "email": "unity@example.com",
+    "email": "arndt.bieberstein@hs-offenburg.de",
     "url": "https://aci.hs-offenburg.de/"
   }
 }
